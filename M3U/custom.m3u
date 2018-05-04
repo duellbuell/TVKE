@@ -1,0 +1,605 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="----- NETHERLAND -----" tvg-logo="" group-title="Nederland",----- NETHERLAND -----
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2001.ts
+#EXTINF:-1 tvg-ID="nl.NPO 1 HD" tvg-name="NL: NPO 1" tvg-logo="http://kingepg.ddns.net/logos/nl.npo1.png" group-title="Nederland",NL: NPO 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2571.ts
+#EXTINF:-1 tvg-ID="nl.NPO 1 HD" tvg-name="NL: NPO 1 720" tvg-logo="http://kingepg.ddns.net/logos/nl.npo1.png" group-title="Nederland",NL: NPO 1 720
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30268.ts
+#EXTINF:-1 tvg-ID="NL: NPO 1 HD" tvg-name="NL: NPO 1 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.npo1_hd.png" group-title="Nederland",NL: NPO 1 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9879.ts
+#EXTINF:-1 tvg-ID="nl.NPO 2 HD" tvg-name="NL: NPO 2" tvg-logo="http://kingepg.ddns.net/logos/nl.npo2.png" group-title="Nederland",NL: NPO 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2570.ts
+#EXTINF:-1 tvg-ID="NL: NPO 2 HD" tvg-name="NL: NPO 2 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.npo2_hd.png" group-title="Nederland",NL: NPO 2 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9880.ts
+#EXTINF:-1 tvg-ID="nl.NPO 3 HD" tvg-name="NL: NPO 3" tvg-logo="http://kingepg.ddns.net/logos/nl.npo3.png" group-title="Nederland",NL: NPO 3
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2569.ts
+#EXTINF:-1 tvg-ID="NL: NPO 3 HD" tvg-name="NL: NPO 3 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.npo3_hd.png" group-title="Nederland",NL: NPO 3 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9881.ts
+#EXTINF:-1 tvg-ID="nl.RTL 4 HD" tvg-name="NL: RTL 4" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl4.png" group-title="Nederland",NL: RTL 4
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2567.ts
+#EXTINF:-1 tvg-ID="NL: RTL 4 HD" tvg-name="NL: RTL 4 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl4_hd.png" group-title="Nederland",NL: RTL 4 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9882.ts
+#EXTINF:-1 tvg-ID="nl.RTL 5 HD" tvg-name="NL: RTL 5" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl5.png" group-title="Nederland",NL: RTL 5
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2566.ts
+#EXTINF:-1 tvg-ID="NL: RTL 5 HD" tvg-name="NL: RTL 5 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl5_hd.png" group-title="Nederland",NL: RTL 5 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9883.ts
+#EXTINF:-1 tvg-ID="nl.SBS6 HD" tvg-name="NL: SBS 6" tvg-logo="http://kingepg.ddns.net/logos/nl.sbs6.png" group-title="Nederland",NL: SBS 6
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9884.ts
+#EXTINF:-1 tvg-ID="NL: SBS 6 HD" tvg-name="NL: SBS 6 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.sbs6.png" group-title="Nederland",NL: SBS 6 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2563.ts
+#EXTINF:-1 tvg-ID="nl.RTL 7 HD" tvg-name="NL: RTL 7" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl7.png" group-title="Nederland",NL: RTL 7
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2565.ts
+#EXTINF:-1 tvg-ID="NL: RTL 7 HD" tvg-name="NL: RTL 7 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl7_hd.png" group-title="Nederland",NL: RTL 7 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9885.ts
+#EXTINF:-1 tvg-ID="nl.RTL 8 HD" tvg-name="NL: RTL 8" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl8.png" group-title="Nederland",NL: RTL 8
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2564.ts
+#EXTINF:-1 tvg-ID="NL: RTL 8 HD" tvg-name="NL: RTL 8 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl8_hd.png" group-title="Nederland",NL: RTL 8 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9886.ts
+#EXTINF:-1 tvg-ID="nl.SBS9 HD" tvg-name="NL: SBS 9" tvg-logo="http://kingepg.ddns.net/logos/nl.sbs9.png" group-title="Nederland",NL: SBS 9
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2562.ts
+#EXTINF:-1 tvg-ID="NL: SBS 9 HD" tvg-name="NL: SBS 9 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.sbs9_hd.png" group-title="Nederland",NL: SBS 9 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11839.ts
+#EXTINF:-1 tvg-ID="nl.Net5 HD" tvg-name="NL: Net 5" tvg-logo="http://kingepg.ddns.net/logos/nl.net5.png" group-title="Nederland",NL: Net 5
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9492.ts
+#EXTINF:-1 tvg-ID="NL: Net 5 HD" tvg-name="NL: Net 5 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.net5_hd.png" group-title="Nederland",NL: Net 5 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9887.ts
+#EXTINF:-1 tvg-ID="nl.Veronica HD / Disney XD" tvg-name="NL: VERONICA DISNEY XD" tvg-logo="http://kingepg.ddns.net/logos/nl.veronica_disney.png" group-title="Nederland",NL: VERONICA DISNEY XD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9497.ts
+#EXTINF:-1 tvg-ID="NL: Veronica Disney XD HD" tvg-name="NL: Veronica Disney XD HD" tvg-logo="http://kingepg.ddns.net/logos/nl.veronica_disney_hd.png" group-title="Nederland",NL: Veronica Disney XD HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9888.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport" tvg-name="NL: Ziggo Sport" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport.png" group-title="Nederland",NL: Ziggo Sport
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9507.ts
+#EXTINF:-1 tvg-ID="NL: Ziggo Sport HD" tvg-name="NL: Ziggo Sport HD" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_hd.png" group-title="Nederland",NL: Ziggo Sport HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11835.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Select HD" tvg-name="NL: ZIGGO SPORT SELECT" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_select.png" group-title="Nederland",NL: ZIGGO SPORT SELECT
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7484.ts
+#EXTINF:-1 tvg-ID="NL: Ziggo Sport Select HD" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_select_hd.png" group-title="Nederland",NL: Ziggo Sport Select HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9889.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Voetbal HD" tvg-name="NL: ZIGGO SPORT VOETBAL" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_voetbal.png" group-title="Nederland",NL: ZIGGO SPORT VOETBAL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2560.ts
+#EXTINF:-1 tvg-ID="NL: ZIGGO SPORT VOETBAL HD" tvg-name="NL: ZIGGO SPORT VOETBAL HD" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_voetbal_hd.png" group-title="Nederland",NL: ZIGGO SPORT VOETBAL HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11820.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Racing" tvg-name="NL: ZIGGO SPORT RACING" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_racing.png" group-title="Nederland",NL: ZIGGO SPORT RACING
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2582.ts
+#EXTINF:-1 tvg-ID="NL: ZIGGO SPORT RACING HD" tvg-name="NL: ZIGGO SPORT RACING HD" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_racing_hd.png" group-title="Nederland",NL: ZIGGO SPORT RACING HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11829.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Golf" tvg-name="NL: ZIGGO SPORT GOLF" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_golf.png" group-title="Nederland",NL: ZIGGO SPORT GOLF
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_golf_hd.png" group-title="Nederland",NL: ZIGGO SPORT GOLF HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11828.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Extra1" tvg-name="NL: ZIGGO SPORT EXTRA 1" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_extra_1.png" group-title="Nederland",NL: ZIGGO SPORT EXTRA 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7485.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Extra2" tvg-name="NL: ZIGGO SPORT EXTRA 2" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_sport_extra_2.png" group-title="Nederland",NL: ZIGGO SPORT EXTRA 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7486.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 1 Eredivisie HD" tvg-name="NL: FOX SPORTS 1" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports1.png" group-title="Nederland",NL: FOX SPORTS 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2578.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 1 Eredivisie HD" tvg-name="NL: Fox Sports 1 720" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports1.png" group-title="Nederland",NL: Fox Sports 1 720
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/17413.ts
+#EXTINF:-1 tvg-ID="NL: FOX SPORTS 1 HD" tvg-name="NL: FOX SPORTS 1 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports1_hd.png" group-title="Nederland",NL: FOX SPORTS 1 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9890.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 2 HD" tvg-name="NL: FOX SPORTS 2" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports2.png" group-title="Nederland",NL: FOX SPORTS 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2577.ts
+#EXTINF:-1 tvg-ID="NL: FOX SPORTS 2 HD" tvg-name="NL: FOX SPORTS 2 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports2_hd.png" group-title="Nederland",NL: FOX SPORTS 2 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9891.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 3 Eredivisie HD" tvg-name="NL: FOX SPORTS 3" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports3.png" group-title="Nederland",NL: FOX SPORTS 3
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2576.ts
+#EXTINF:-1 tvg-ID="NL: FOX SPORTS 3 HD" tvg-name="NL: FOX SPORTS 3 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports3_hd.png" group-title="Nederland",NL: FOX SPORTS 3 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11833.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 4 HD" tvg-name="NL: FOX SPORTS 4" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports4.png" group-title="Nederland",NL: FOX SPORTS 4
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2587.ts
+#EXTINF:-1 tvg-ID="NL: FOX SPORTS 4 HD" tvg-name="NL: FOX SPORTS 4 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports4_hd.png" group-title="Nederland",NL: FOX SPORTS 4 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11832.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 5 Eredivisie HD" tvg-name="NL: FOX SPORTS 5" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports5.png" group-title="Nederland",NL: FOX SPORTS 5
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/4179.ts
+#EXTINF:-1 tvg-ID="NL: FOX SPORTS 5 HD" tvg-name="NL: FOX SPORTS 5 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports5_hd.png" group-title="Nederland",NL: FOX SPORTS 5 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11831.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 6 HD" tvg-name="NL: FOX SPORTS 6" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports6.png" group-title="Nederland",NL: FOX SPORTS 6
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7478.ts
+#EXTINF:-1 tvg-ID="NL: FOX SPORTS 6 HD" tvg-name="NL: FOX SPORTS 6 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_sports6_hd.png" group-title="Nederland",NL: FOX SPORTS 6 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11830.ts
+#EXTINF:-1 tvg-ID="nl.Eurosport 1 HD" tvg-name="NL: Eurosport" tvg-logo="http://kingepg.ddns.net/logos/nl.eurosport.png" group-title="Nederland",NL: Eurosport
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9506.ts
+#EXTINF:-1 tvg-ID="Eurosport1.nl" tvg-name="NL: Eurosport HD" tvg-logo="http://kingepg.ddns.net/logos/nl.eurosport_hd.png" group-title="Nederland",NL: Eurosport HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/20823.ts
+#EXTINF:-1 tvg-ID="NL: Eurosport HD" tvg-name="NL: Eurosport 2" tvg-logo="http://kingepg.ddns.net/logos/nl.eurosport.png" group-title="Nederland",NL: Eurosport 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9892.ts
+#EXTINF:-1 tvg-ID="nl.Eurosport 2 HD" tvg-name="NL: Eurosport 2 HD" tvg-logo="http://kingepg.ddns.net/logos/nl.eurosport_2_hd.png" group-title="Nederland",NL: Eurosport 2 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/20824.ts
+#EXTINF:-1 tvg-ID="nl.Extreme Sports Channel" tvg-name="NL: Extreme Sports" tvg-logo="http://kingepg.ddns.net/logos/nl.extreme_sports.png" group-title="Nederland",NL: Extreme Sports
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9956.ts
+#EXTINF:-1 tvg-ID="nl.Extreme Sports Channel" tvg-name="NL: EDGE" tvg-logo="http://kingepg.ddns.net/logos/nl.edge_sport.png" group-title="Nederland",NL: EDGE
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9509.ts
+#EXTINF:-1 tvg-ID="nl.Motors TV" tvg-name="NL: Motors TV" tvg-logo="http://kingepg.ddns.net/logos/nl.motorstv.png" group-title="Nederland",NL: Motors TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Motorsport TV HD" tvg-logo="http://kingepg.ddns.net/logos/nl.motorsport_tv.png" group-title="Nederland",NL: Motorsport TV HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/23251.ts
+#EXTINF:-1 tvg-ID="nl.ONS" tvg-name="NL: ONS" tvg-logo="http://kingepg.ddns.net/logos/nl.ons.png" group-title="Nederland",NL: ONS
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2589.ts
+#EXTINF:-1 tvg-ID="nl.FOX HD" tvg-name="NL: Fox" tvg-logo="http://kingepg.ddns.net/logos/nl.fox.png" group-title="Nederland",NL: Fox
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9494.ts
+#EXTINF:-1 tvg-ID="NL: Fox HD" tvg-name="NL: Fox HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fox_hd.png" group-title="Nederland",NL: Fox HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11834.ts
+#EXTINF:-1 tvg-ID="nl.Film1 Premiere HD" tvg-name="NL: Film 1 Premiere" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_premiere.png" group-title="Nederland",NL: Film 1 Premiere
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2580.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Premiere HD" tvg-name="NL: Film 1 Premiere HD" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_premiere_hd.png" group-title="Nederland",NL: Film 1 Premiere HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9894.ts
+#EXTINF:-1 tvg-ID="nl.Film1 Action HD" tvg-name="NL: Film 1 Action" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_action.png" group-title="Nederland",NL: Film 1 Action
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2591.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Action HD" tvg-name="NL: Film 1 Action HD" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_action_hd.png" group-title="Nederland",NL: Film 1 Action HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11825.ts
+#EXTINF:-1 tvg-ID="nl.Film1 Spotlight HD" tvg-name="NL: Film 1 Drama" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_spotlight.png" group-title="Nederland",NL: Film 1 Drama
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9493.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Drama HD" tvg-name="NL: Film 1 Drama HD" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_drama_hd.png" group-title="Nederland",NL: Film 1 Drama HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11824.ts
+#EXTINF:-1 tvg-ID="nl.Film1 Comedy & Kids HD" tvg-name="NL: FILM 1 FAMILY" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_comedy_and_kids.png" group-title="Nederland",NL: FILM 1 FAMILY
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2581.ts
+#EXTINF:-1 tvg-ID="NL: FILM 1 FAMILY HD" tvg-name="NL: FILM 1 FAMILY HD" tvg-logo="http://kingepg.ddns.net/logos/nl.film1_family_hd.png" group-title="Nederland",NL: FILM 1 FAMILY HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11823.ts
+#EXTINF:-1 tvg-ID="nl.Discovery HD" tvg-name="NL: DISCOVERY" tvg-logo="http://kingepg.ddns.net/logos/nl.discovery.png" group-title="Nederland",NL: DISCOVERY
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7479.ts
+#EXTINF:-1 tvg-ID="NL: DISCOVERY HD" tvg-name="NL: DISCOVERY HD" tvg-logo="http://kingepg.ddns.net/logos/nl.discovery_hd.png" group-title="Nederland",NL: DISCOVERY HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Discovery Showcase" tvg-logo="http://kingepg.ddns.net/logos/nl.discovery.png" group-title="Nederland",NL: Discovery Showcase
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9906.ts
+#EXTINF:-1 tvg-ID="nl.Discovery Science" tvg-name="NL: Discovery Science" tvg-logo="http://kingepg.ddns.net/logos/nl.discovery_science.png" group-title="Nederland",NL: Discovery Science
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21491.ts
+#EXTINF:-1 tvg-ID="nl.Discovery Science" tvg-name="NL: Discovery Science HD" tvg-logo="http://kingepg.ddns.net/logos/nl.discovery_science.png" group-title="Nederland",NL: Discovery Science HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11817.ts
+#EXTINF:-1 tvg-ID="nl.Discovery World" tvg-name="NL: Discovery World" tvg-logo="http://kingepg.ddns.net/logos/nl.discovery_world.png" group-title="Nederland",NL: Discovery World
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11818.ts
+#EXTINF:-1 tvg-ID="nl.Investigation Discovery" tvg-name="NL: Investigation Discovery" tvg-logo="http://kingepg.ddns.net/logos/nl.investigation_discovery.png" group-title="Nederland",NL: Investigation Discovery
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9501.ts
+#EXTINF:-1 tvg-ID="NL: Investigation Discovery HD" tvg-name="NL: Investigation Discovery HD" tvg-logo="http://kingepg.ddns.net/logos/nl.investigation_discovery_hd.png" group-title="Nederland",NL: Investigation Discovery HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11836.ts
+#EXTINF:-1 tvg-ID="nl.National Geographic Channel HD" tvg-name="NL: National Geographic" tvg-logo="http://kingepg.ddns.net/logos/nl.national_geographic.png" group-title="Nederland",NL: National Geographic
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2573.ts
+#EXTINF:-1 tvg-ID="NL: National Geographic HD" tvg-name="NL: National Geographic HD" tvg-logo="http://kingepg.ddns.net/logos/nl.national_geographic_hd.png" group-title="Nederland",NL: National Geographic HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9895.ts
+#EXTINF:-1 tvg-ID="nl.Nat Geo Wild HD" tvg-name="NL: Nat Geo Wild" tvg-logo="http://kingepg.ddns.net/logos/nl.nat_geo_wild.png" group-title="Nederland",NL: Nat Geo Wild
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9896.ts
+#EXTINF:-1 tvg-ID="nl.Nat Geo Wild HD" tvg-name="NL: Nat Geo Wild HD" tvg-logo="http://kingepg.ddns.net/logos/nl.nat_geo_wild.png" group-title="Nederland",NL: Nat Geo Wild HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21373.ts
+#EXTINF:-1 tvg-ID="nl.HISTORY HD" tvg-name="NL: History Channel" tvg-logo="http://kingepg.ddns.net/logos/nl.history.png" group-title="Nederland",NL: History Channel
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9897.ts
+#EXTINF:-1 tvg-ID="NL: History HD DUT NL" tvg-name="NL: History Channel HD" tvg-logo="http://kingepg.ddns.net/logos/nl.history_hd.png" group-title="Nederland",NL: History Channel HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9898.ts
+#EXTINF:-1 tvg-ID="nl.Animal Planet HD" tvg-name="NL: Animal Planet" tvg-logo="http://kingepg.ddns.net/logos/nl.animal_planet.png" group-title="Nederland",NL: Animal Planet
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9899.ts
+#EXTINF:-1 tvg-ID="nl.Animal Planet HD" tvg-name="NL: Animal Planet HD" tvg-logo="http://kingepg.ddns.net/logos/nl.animal_planet.png" group-title="Nederland",NL: Animal Planet HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9995.ts
+#EXTINF:-1 tvg-ID="nl.CI" tvg-name="NL: Crime & Investigation" tvg-logo="http://kingepg.ddns.net/logos/nl.ci.png" group-title="Nederland",NL: Crime & Investigation
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9900.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo TV HD" tvg-name="NL: Ziggo TV" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_tv.png" group-title="Nederland",NL: Ziggo TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Ziggo TV HD" tvg-logo="http://kingepg.ddns.net/logos/nl.ziggo_tv.png" group-title="Nederland",NL: Ziggo TV HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21503.ts
+#EXTINF:-1 tvg-ID="nl.Spike HD" tvg-name="NL: Spike" tvg-logo="http://kingepg.ddns.net/logos/nl.spike.png" group-title="Nederland",NL: Spike
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/17936.ts
+#EXTINF:-1 tvg-ID="nl.Spike HD" tvg-name="NL: Spike HD" tvg-logo="http://kingepg.ddns.net/logos/nl.spike_hd.png" group-title="Nederland",NL: Spike HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11838.ts
+#EXTINF:-1 tvg-ID="nl.Viceland HD" tvg-name="NL: Viceland" tvg-logo="http://kingepg.ddns.net/logos/nl.viceland.png" group-title="Nederland",NL: Viceland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/17694.ts
+#EXTINF:-1 tvg-ID="NL: Viceland HD" tvg-name="NL: Viceland HD" tvg-logo="http://kingepg.ddns.net/logos/nl.viceland_hd.png" group-title="Nederland",NL: Viceland HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11837.ts
+#EXTINF:-1 tvg-ID="nl.TLC HD" tvg-name="NL: TLC" tvg-logo="http://kingepg.ddns.net/logos/nl.tlc.png" group-title="Nederland",NL: TLC
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7480.ts
+#EXTINF:-1 tvg-ID="NL: TLC HD" tvg-name="NL: TLC HD" tvg-logo="http://kingepg.ddns.net/logos/nl.tlc_hd.png" group-title="Nederland",NL: TLC HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11827.ts
+#EXTINF:-1 tvg-ID="nl.E! Entertainment" tvg-name="NL: E! Entertainment" tvg-logo="http://kingepg.ddns.net/logos/nl.e_ent.png" group-title="Nederland",NL: E! Entertainment
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9983.ts
+#EXTINF:-1 tvg-ID="nl.E! Entertainment" tvg-name="NL: E! Entertainment HD" tvg-logo="http://kingepg.ddns.net/logos/nl.e_ent_hd.png" group-title="Nederland",NL: E! Entertainment HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: CBS Reality" tvg-logo="http://kingepg.ddns.net/logos/nl.cbs_reality.png" group-title="Nederland",NL: CBS Reality
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10011.ts
+#EXTINF:-1 tvg-ID="nl.AMC" tvg-name="NL: AMC" tvg-logo="http://kingepg.ddns.net/logos/nl.amc.png" group-title="Nederland",NL: AMC
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/23425.ts
+#EXTINF:-1 tvg-ID="nl.AMC" tvg-name="NL: AMC HD" tvg-logo="http://kingepg.ddns.net/logos/nl.amc.png" group-title="Nederland",NL: AMC HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9968.ts
+#EXTINF:-1 tvg-ID="nl.Food Network" tvg-name="NL: Food Network" tvg-logo="http://kingepg.ddns.net/logos/nl.food_network.png" group-title="Nederland",NL: Food Network
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9893.ts
+#EXTINF:-1 tvg-ID="nl.Horse Country TV" tvg-name="NL: Horse & Country TV" tvg-logo="http://kingepg.ddns.net/logos/nl.horse_country.png" group-title="Nederland",NL: Horse & Country TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11819.ts
+#EXTINF:-1 tvg-ID="nl.RTL Crime" tvg-name="NL: RTL Crime" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl_crime.png" group-title="Nederland",NL: RTL Crime
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9901.ts
+#EXTINF:-1 tvg-ID="nl.RTL Crime" tvg-name="NL: RTL Crime HD" tvg-logo="" group-title="Nederland",NL: RTL Crime HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30288.ts
+#EXTINF:-1 tvg-ID="nl.RTL Lounge" tvg-name="NL: RTL LOUNGE" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl_lounge.png" group-title="Nederland",NL: RTL LOUNGE
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9496.ts
+#EXTINF:-1 tvg-ID="nl.RTL Lounge" tvg-name="NL: RTL Lounge HD" tvg-logo="" group-title="Nederland",NL: RTL Lounge HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30302.ts
+#EXTINF:-1 tvg-ID="nl.RTL Z HD" tvg-name="NL: RTL Z" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl_Z.png" group-title="Nederland",NL: RTL Z
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9495.ts
+#EXTINF:-1 tvg-ID="nl.Comedy Central HD" tvg-name="NL: Comedy Central" tvg-logo="http://kingepg.ddns.net/logos/nl.comedy_central.png" group-title="Nederland",NL: Comedy Central
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9502.ts
+#EXTINF:-1 tvg-ID="ComedyCentralXtra.nl" tvg-name="NL: Comedy Central Extra" tvg-logo="http://kingepg.ddns.net/logos/nl.comedy_central.png" group-title="Nederland",NL: Comedy Central Extra
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7475.ts
+#EXTINF:-1 tvg-ID="nl.Comedy Central Family" tvg-name="NL: Comedy Central Family" tvg-logo="http://kingepg.ddns.net/logos/nl.comedy_central_family.png" group-title="Nederland",NL: Comedy Central Family
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9902.ts
+#EXTINF:-1 tvg-ID="nl.BBC Entertainment" tvg-name="NL: BBC Entertainment" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_entertainment.png" group-title="Nederland",NL: BBC Entertainment
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9903.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: BBC First" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_first.png" group-title="Nederland",NL: BBC First
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: BBC First HD" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_first.png" group-title="Nederland",NL: BBC First HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: BBC One HD" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_one.png" group-title="Nederland",NL: BBC One HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: BBC Two HD" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_two.png" group-title="Nederland",NL: BBC Two HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: BBC Three / CBBC" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_three_cbbc.png" group-title="Nederland",NL: BBC Three / CBBC
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: BBC Four / Cbeebies" tvg-logo="http://kingepg.ddns.net/logos/nl.bbc_four_cbeebies.png" group-title="Nederland",NL: BBC Four / Cbeebies
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21495.ts
+#EXTINF:-1 tvg-ID="nl.Fine Living" tvg-name="NL: Fine Living" tvg-logo="http://kingepg.ddns.net/logos/nl.fine_living.png" group-title="Nederland",NL: Fine Living
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21269.ts
+#EXTINF:-1 tvg-ID="nl.Travel Channel HD" tvg-name="NL: Travel Channel" tvg-logo="http://kingepg.ddns.net/logos/nl.travel.png" group-title="Nederland",NL: Travel Channel
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10012.ts
+#EXTINF:-1 tvg-ID="NL: Travel Channel HD" tvg-name="NL: Travel Channel HD" tvg-logo="http://kingepg.ddns.net/logos/nl.travel_hd.png" group-title="Nederland",NL: Travel Channel HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9508.ts
+#EXTINF:-1 tvg-ID="nl.Fashion TV HD" tvg-name="NL: Fashion TV HD" tvg-logo="http://kingepg.ddns.net/logos/nl.fashion.png" group-title="Nederland",NL: Fashion TV HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/12062.ts
+#EXTINF:-1 tvg-ID="nl.24Kitchen HD" tvg-name="NL: 24 KITCHEN" tvg-logo="http://kingepg.ddns.net/logos/nl.24kitchen.png" group-title="Nederland",NL: 24 KITCHEN
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: 24 Kitchen HD" tvg-logo="" group-title="Nederland",NL: 24 Kitchen HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Family 7" tvg-logo="http://kingepg.ddns.net/logos/nl.family7.png" group-title="Nederland",NL: Family 7
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Out TV" tvg-logo="http://kingepg.ddns.net/logos/nl.outtv.png" group-title="Nederland",NL: Out TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: My Zen HD" tvg-logo="" group-title="Nederland",NL: My Zen HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30460.ts
+#EXTINF:-1 tvg-ID="nl.MTV HD" tvg-name="NL: MTV" tvg-logo="http://kingepg.ddns.net/logos/nl.mtv.png" group-title="Nederland",NL: MTV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9904.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: MTV NL" tvg-logo="" group-title="Nederland",NL: MTV NL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: MTV Brand New" tvg-logo="http://kingepg.ddns.net/logos/nl.mtv_brand_new.png" group-title="Nederland",NL: MTV Brand New
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: MTV Dance" tvg-logo="http://kingepg.ddns.net/logos/nl.mtv.png" group-title="Nederland",NL: MTV Dance
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21501.ts
+#EXTINF:-1 tvg-ID="nl.MTV Live HD" tvg-name="NL: MTV Live HD" tvg-logo="http://kingepg.ddns.net/logos/nl.mtv_live.png" group-title="Nederland",NL: MTV Live HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/12063.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Stingray Brava" tvg-logo="http://kingepg.ddns.net/logos/nl.brava.png" group-title="Nederland",NL: Stingray Brava
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Stingray DJAZZ" tvg-logo="http://kingepg.ddns.net/logos/nl.djazz.png" group-title="Nederland",NL: Stingray DJAZZ
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Stingray Lite TV" tvg-logo="http://kingepg.ddns.net/logos/nl.stingray_lite_tv.png" group-title="Nederland",NL: Stingray Lite TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: VH1 Classic" tvg-logo="http://kingepg.ddns.net/logos/nl.vh1_classic.png" group-title="Nederland",NL: VH1 Classic
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: DanceTrippin" tvg-logo="" group-title="Nederland",NL: DanceTrippin
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Shorts TV" tvg-logo="http://kingepg.ddns.net/logos/nl.shorts_tv.png" group-title="Nederland",NL: Shorts TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21487.ts
+#EXTINF:-1 tvg-ID="nl.RTL Telekids" tvg-name="NL: RTL Telekids" tvg-logo="http://kingepg.ddns.net/logos/nl.rtl_telekids.png" group-title="Nederland",NL: RTL Telekids
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9905.ts
+#EXTINF:-1 tvg-ID="nl.Boomerang" tvg-name="NL: BOOMERANG" tvg-logo="http://kingepg.ddns.net/logos/nl.boomerang.png" group-title="Nederland",NL: BOOMERANG
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9504.ts
+#EXTINF:-1 tvg-ID="nl.Nicktoons" tvg-name="NL: NICK TOONS" tvg-logo="http://kingepg.ddns.net/logos/nl.nicktoons.png" group-title="Nederland",NL: NICK TOONS
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7474.ts
+#EXTINF:-1 tvg-ID="nl.Nickelodeon HD / Spike Channel" tvg-name="NL: NICKELODEON" tvg-logo="http://kingepg.ddns.net/logos/nl.nickelodeon.png" group-title="Nederland",NL: NICKELODEON
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7481.ts
+#EXTINF:-1 tvg-ID="nl.Nickelodeon" tvg-name="NL: Nickelodeon HD" tvg-logo="http://kingepg.ddns.net/logos/nl.nickelodeon_hd.png" group-title="Nederland",NL: Nickelodeon HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/23250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Nick Hits" tvg-logo="http://kingepg.ddns.net/logos/nl.nick_hits.png" group-title="Nederland",NL: Nick Hits
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11822.ts
+#EXTINF:-1 tvg-ID="nl.Nick Jr." tvg-name="NL: NICK JR" tvg-logo="http://kingepg.ddns.net/logos/nl.nick_jr.png" group-title="Nederland",NL: NICK JR
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9500.ts
+#EXTINF:-1 tvg-ID="nl.Disney Channel" tvg-name="NL: DISNEY CHANNEL" tvg-logo="http://kingepg.ddns.net/logos/nl.disney_channel.png" group-title="Nederland",NL: DISNEY CHANNEL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2644.ts
+#EXTINF:-1 tvg-ID="nl.Disney Junior" tvg-name="NL: DISNEY JUNIOR" tvg-logo="http://kingepg.ddns.net/logos/nl.disney_junior.png" group-title="Nederland",NL: DISNEY JUNIOR
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7483.ts
+#EXTINF:-1 tvg-ID="nl.Cartoon Network" tvg-name="NL: CARTOON NETWORK" tvg-logo="http://kingepg.ddns.net/logos/nl.cartoon_network.png" group-title="Nederland",NL: CARTOON NETWORK
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9503.ts
+#EXTINF:-1 tvg-ID="nl.Pebble TV" tvg-name="NL: Pebble TV" tvg-logo="http://kingepg.ddns.net/logos/nl.pebble_tv.png" group-title="Nederland",NL: Pebble TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11821.ts
+#EXTINF:-1 tvg-ID="nl.Baby TV" tvg-name="NL: Baby TV" tvg-logo="http://kingepg.ddns.net/logos/nl.babytv.png" group-title="Nederland",NL: Baby TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9908.ts
+#EXTINF:-1 tvg-ID="nl.XITE" tvg-name="NL: XITE" tvg-logo="http://kingepg.ddns.net/logos/nl.xite.png" group-title="Nederland",NL: XITE
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9909.ts
+#EXTINF:-1 tvg-ID="nl.TV Oranje" tvg-name="NL: TV ORANJE" tvg-logo="http://kingepg.ddns.net/logos/nl.tv_oranje.png" group-title="Nederland",NL: TV ORANJE
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9498.ts
+#EXTINF:-1 tvg-ID="nl.TV538" tvg-name="NL: 538 TV" tvg-logo="http://kingepg.ddns.net/logos/nl.tv_538.png" group-title="Nederland",NL: 538 TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7482.ts
+#EXTINF:-1 tvg-ID="nl.AT5" tvg-name="NL: AT5" tvg-logo="http://kingepg.ddns.net/logos/nl.at5.png" group-title="Nederland",NL: AT5
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9510.ts
+#EXTINF:-1 tvg-ID="nl.NPO 101" tvg-name="NL: NPO 101" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_101.png" group-title="Nederland",NL: NPO 101
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Best" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_zappeling.png" group-title="Nederland",NL: NPO Best
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9964.ts
+#EXTINF:-1 tvg-ID="nl.NPO Cultura" tvg-name="NL: NPO Cultura" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_cultura.png" group-title="Nederland",NL: NPO Cultura
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9912.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Nieuws" tvg-logo="http://kingepg.ddns.net/logos/nl.nponieuws.png" group-title="Nederland",NL: NPO Nieuws
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/17695.ts
+#EXTINF:-1 tvg-ID="nl.NPO Politiek" tvg-name="NL: NPO Politiek" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_politiek.png" group-title="Nederland",NL: NPO Politiek
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9913.ts
+#EXTINF:-1 tvg-ID="nl.NPO Zapp Xtra" tvg-name="NL: NPO ZAPPELINE" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_zappeling.png" group-title="Nederland",NL: NPO ZAPPELINE
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: 192 TV" tvg-logo="http://kingepg.ddns.net/logos/nl.192tv.png" group-title="Nederland",NL: 192 TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: 100% NL" tvg-logo="http://kingepg.ddns.net/logos/nl.100%_nl.png" group-title="Nederland",NL: 100% NL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/23253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Mezzo" tvg-logo="http://kingepg.ddns.net/logos/nl.mezzo.png" group-title="Nederland",NL: Mezzo
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/23254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: 3ML Radio" tvg-logo="" group-title="Nederland",NL: 3ML Radio
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: TV Rijnmond" tvg-logo="" group-title="Nederland",NL: TV Rijnmond
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Emmeloord TV" tvg-logo="" group-title="Nederland",NL: Emmeloord TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Feel Good TV" tvg-logo="http://kingepg.ddns.net/logos/nl.feelgood_music.png" group-title="Nederland",NL: Feel Good TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: EDE TV" tvg-logo="" group-title="Nederland",NL: EDE TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Klipkar TV" tvg-logo="" group-title="Nederland",NL: Klipkar TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Salto 1" tvg-logo="http://kingepg.ddns.net/logos/nl.salto1.png" group-title="Nederland",NL: Salto 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Salto 2" tvg-logo="http://kingepg.ddns.net/logos/nl.salto2.png" group-title="Nederland",NL: Salto 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Lokale Omroep Echt Susteren (LOES)" tvg-logo="" group-title="Nederland",NL: Lokale Omroep Echt Susteren (LOES)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9924.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Lokale Omroep Mill" tvg-logo="" group-title="Nederland",NL: Lokale Omroep Mill
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Lokale Omroep Stein" tvg-logo="" group-title="Nederland",NL: Lokale Omroep Stein
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9928.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: LOOK TV (Schiedam)" tvg-logo="" group-title="Nederland",NL: LOOK TV (Schiedam)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Oog TV" tvg-logo="" group-title="Nederland",NL: Oog TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Open Rotterdam" tvg-logo="" group-title="Nederland",NL: Open Rotterdam
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9979.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO FunX (Beeldradio)" tvg-logo="http://kingepg.ddns.net/logos/nl.funx.png" group-title="Nederland",NL: NPO FunX (Beeldradio)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Radio 1 (Beeldradio)" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_radio_1.png" group-title="Nederland",NL: NPO Radio 1 (Beeldradio)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Radio 2 (Beeldradio)" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_radio_2.png" group-title="Nederland",NL: NPO Radio 2 (Beeldradio)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO 3FM (Beeldradio)" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_3fm.png" group-title="Nederland",NL: NPO 3FM (Beeldradio)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Radio 4 (Beeldradio)" tvg-logo="http://kingepg.ddns.net/logos/nl.npo_radio_4.png" group-title="Nederland",NL: NPO Radio 4 (Beeldradio)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10006.ts
+#EXTINF:-1 tvg-ID="nl.Omroep Flevoland" tvg-name="NL: Omroep Flevoland" tvg-logo="http://kingepg.ddns.net/logos/nl.omroep_flevoland.png" group-title="Nederland",NL: Omroep Flevoland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9931.ts
+#EXTINF:-1 tvg-ID="nl.Omrop Fryslân" tvg-name="NL: Omroep Fryslân" tvg-logo="http://kingepg.ddns.net/logos/nl.omroep_friesland.png" group-title="Nederland",NL: Omroep Fryslân
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9932.ts
+#EXTINF:-1 tvg-ID="nl.TV Gelderland" tvg-name="NL: Omroep Gelderland" tvg-logo="http://kingepg.ddns.net/logos/nl.omroep_gelderland.png" group-title="Nederland",NL: Omroep Gelderland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9933.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Omroep Groot Nuth" tvg-logo="" group-title="Nederland",NL: Omroep Groot Nuth
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9935.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Omroep Heusden" tvg-logo="" group-title="Nederland",NL: Omroep Heusden
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Omroep Limburg" tvg-logo="" group-title="Nederland",NL: Omroep Limburg
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9937.ts
+#EXTINF:-1 tvg-ID="nl.TV West" tvg-name="NL: Omroep West" tvg-logo="http://kingepg.ddns.net/logos/nl.west.png" group-title="Nederland",NL: Omroep West
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9941.ts
+#EXTINF:-1 tvg-ID="nl.Omroep Zeeland" tvg-name="NL: Omroep Zeeland" tvg-logo="http://kingepg.ddns.net/logos/nl.omroep_zeeland.png" group-title="Nederland",NL: Omroep Zeeland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Omroep Zuidplas" tvg-logo="" group-title="Nederland",NL: Omroep Zuidplas
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9943.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Qmusic.nl live" tvg-logo="http://kingepg.ddns.net/logos/nl.q-music.png" group-title="Nederland",NL: Qmusic.nl live
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Radio 350" tvg-logo="" group-title="Nederland",NL: Radio 350
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Radio Beverwijk" tvg-logo="" group-title="Nederland",NL: Radio Beverwijk
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9993.ts
+#EXTINF:-1 tvg-ID="nl.L1 TV" tvg-name="NL: L1 Limburg" tvg-logo="" group-title="Nederland",NL: L1 Limburg
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: ML 1 Weert" tvg-logo="" group-title="Nederland",NL: ML 1 Weert
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Baarn" tvg-logo="" group-title="Nederland",NL: RTV Baarn
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9945.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Dordrecht" tvg-logo="" group-title="Nederland",NL: RTV Dordrecht
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9947.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Ronde Venen" tvg-logo="" group-title="Nederland",NL: RTV Ronde Venen
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Meppel" tvg-logo="" group-title="Nederland",NL: RTV Meppel
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9952.ts
+#EXTINF:-1 tvg-ID="nl.TV Noord" tvg-name="NL: RTV Noord" tvg-logo="http://kingepg.ddns.net/logos/nl.rtv_noord.png" group-title="Nederland",NL: RTV Noord
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Noord (Beeldradio)" tvg-logo="http://kingepg.ddns.net/logos/nl.rtv_noord.png" group-title="Nederland",NL: RTV Noord (Beeldradio)
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9955.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Noord Holland" tvg-logo="" group-title="Nederland",NL: RTV Noord Holland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Utrecht" tvg-logo="http://kingepg.ddns.net/logos/nl.rtv_utrecht.png" group-title="Nederland",NL: RTV Utrecht
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9957.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Papendrecht" tvg-logo="" group-title="Nederland",NL: RTV Papendrecht
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Purmerend" tvg-logo="" group-title="Nederland",NL: RTV Purmerend
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Ridderkerk" tvg-logo="" group-title="Nederland",NL: RTV Ridderkerk
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9961.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Slingeland" tvg-logo="" group-title="Nederland",NL: RTV Slingeland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV SLOS" tvg-logo="" group-title="Nederland",NL: RTV SLOS
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV IJsselmond" tvg-logo="" group-title="Nederland",NL: RTV IJsselmond
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: drtv Deventer" tvg-logo="" group-title="Nederland",NL: drtv Deventer
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Ustad" tvg-logo="" group-title="Nederland",NL: Ustad
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/18114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Omroep Súdwest" tvg-logo="" group-title="Nederland",NL: Omroep Súdwest
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9988.ts
+#EXTINF:-1 tvg-ID="nl.SLAM" tvg-name="NL: SLAM TV" tvg-logo="http://kingepg.ddns.net/logos/nl.slam!.png" group-title="Nederland",NL: SLAM TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9918.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Slam webcam" tvg-logo="http://kingepg.ddns.net/logos/nl.slam.png" group-title="Nederland",NL: Slam webcam
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9919.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Studio 040" tvg-logo="" group-title="Nederland",NL: Studio 040
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9999.ts
+#EXTINF:-1 tvg-ID="nl.Omroep Brabant" tvg-name="NL: Omroep Brabant" tvg-logo="" group-title="Nederland",NL: Omroep Brabant
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/30304.ts
+#EXTINF:-1 tvg-ID="nl.TV Oost" tvg-name="NL: Omroep Tilburg" tvg-logo="http://kingepg.ddns.net/logos/nl.tv_oost.png" group-title="Nederland",NL: Omroep Tilburg
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/2590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Maastricht" tvg-logo="" group-title="Nederland",NL: RTV Maastricht
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9921.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Berg en Dal TV" tvg-logo="" group-title="Nederland",NL: Berg en Dal TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: WOS TV" tvg-logo="" group-title="Nederland",NL: WOS TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9976.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NL: WOTV" tvg-logo="" group-title="Nederland",NL: WOTV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/23255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sport 1 HD" tvg-logo="" group-title="Belgium",BE: Play Sport 1 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Voetbal 2 HD" tvg-logo="" group-title="Belgium",BE: Play Voetbal 2 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Voetbal 3 HD" tvg-logo="" group-title="Belgium",BE: Play Voetbal 3 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sport 4 HD" tvg-logo="" group-title="Belgium",BE: Play Sport 4 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sport 5 HD" tvg-logo="" group-title="Belgium",BE: Play Sport 5 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Voo Sport 1" tvg-logo="" group-title="Belgium",BE: Voo Sport 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Voo Sport 2" tvg-logo="" group-title="Belgium",BE: Voo Sport 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Voo Sport World" tvg-logo="" group-title="Belgium",BE: Voo Sport World
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- BELGIUM -----" tvg-logo="" group-title="Belgium",----- BELGIUM -----
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3927.ts
+#EXTINF:-1 tvg-ID="be.één HD" tvg-name="BE: Een" tvg-logo="http://kingepg.ddns.net/logos/be.een.png" group-title="Belgium",BE: Een
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: EEN HD" tvg-logo="" group-title="Belgium",BE: EEN HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Q2" tvg-logo="http://kingepg.ddns.net/logos/be.2be.png" group-title="Belgium",BE: Q2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Q2 HD" tvg-logo="http://kingepg.ddns.net/logos/be.tele_bruxeles.png" group-title="Belgium",BE: Q2 HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3931.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Canvas" tvg-logo="" group-title="Belgium",BE: Canvas
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14426.ts
+#EXTINF:-1 tvg-ID="be.Canvas HD" tvg-name="BE: CANVAS HD" tvg-logo="http://kingepg.ddns.net/logos/be.canvas.png" group-title="Belgium",BE: CANVAS HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9270.ts
+#EXTINF:-1 tvg-ID="be.VIER" tvg-name="BE: VIER" tvg-logo="http://kingepg.ddns.net/logos/be.vier.png" group-title="Belgium",BE: VIER
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VIER HD" tvg-logo="" group-title="Belgium",BE: VIER HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14422.ts
+#EXTINF:-1 tvg-ID="be.VIJF" tvg-name="BE: VIJF" tvg-logo="http://kingepg.ddns.net/logos/be.vijftv.png" group-title="Belgium",BE: VIJF
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Zes" tvg-logo="" group-title="Belgium",BE: Zes
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14428.ts
+#EXTINF:-1 tvg-ID="be.Vitaya" tvg-name="BE: VITAYA" tvg-logo="http://kingepg.ddns.net/logos/be.vitaya.png" group-title="Belgium",BE: VITAYA
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9266.ts
+#EXTINF:-1 tvg-ID="be.Acht" tvg-name="BE: CAZ" tvg-logo="http://kingepg.ddns.net/logos/be.acht.png" group-title="Belgium",BE: CAZ
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9271.ts
+#EXTINF:-1 tvg-ID="be.VTM" tvg-name="BE: VTM" tvg-logo="http://kingepg.ddns.net/logos/be.vtm.png" group-title="Belgium",BE: VTM
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM HD" tvg-logo="" group-title="Belgium",BE: VTM HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14424.ts
+#EXTINF:-1 tvg-ID="be.Ketnet" tvg-name="BE: KETNET" tvg-logo="http://kingepg.ddns.net/logos/be.ketnet.png" group-title="Belgium",BE: KETNET
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9269.ts
+#EXTINF:-1 tvg-ID="be.Kadet" tvg-name="BE: Kadet" tvg-logo="http://kingepg.ddns.net/logos/be.kadet.png" group-title="Belgium",BE: Kadet
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9272.ts
+#EXTINF:-1 tvg-ID="be.vtmKzoom" tvg-name="BE: VTMKAZOOM/ KANAL Z" tvg-logo="http://kingepg.ddns.net/logos/be.vtmkazoom.png" group-title="Belgium",BE: VTMKAZOOM/ KANAL Z
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM Nieuws" tvg-logo="" group-title="Belgium",BE: VTM Nieuws
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: ATV Antwerpen" tvg-logo="http://kingepg.ddns.net/logos/be.atv.png" group-title="Belgium",BE: ATV Antwerpen
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TV Limburg" tvg-logo="" group-title="Belgium",BE: TV Limburg
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14421.ts
+#EXTINF:-1 tvg-ID="be.La Une" tvg-name="BE: LA UNE HD" tvg-logo="http://kingepg.ddns.net/logos/be.laune.png" group-title="Belgium",BE: LA UNE HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3933.ts
+#EXTINF:-1 tvg-ID="be.La Deux" tvg-name="BE: LA DEUX" tvg-logo="http://kingepg.ddns.net/logos/be.ladeux.png" group-title="Belgium",BE: LA DEUX
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3934.ts
+#EXTINF:-1 tvg-ID="be.La Trois" tvg-name="BE: LA TROIS" tvg-logo="http://kingepg.ddns.net/logos/be.latrois.png" group-title="Belgium",BE: LA TROIS
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3935.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: CLUB RTL" tvg-logo="http://kingepg.ddns.net/logos/be.club_rtl.png" group-title="Belgium",BE: CLUB RTL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PLUG RTL" tvg-logo="http://kingepg.ddns.net/logos/be.plug_rtl.png" group-title="Belgium",BE: PLUG RTL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3929.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: BFM" tvg-logo="http://kingepg.ddns.net/logos/be.bfm.png" group-title="Belgium",BE: BFM
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Bel RTL" tvg-logo="http://kingepg.ddns.net/logos/be.bel_rtl.png" group-title="Belgium",BE: Bel RTL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9815.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: CINE" tvg-logo="" group-title="Belgium",BE: CINE
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cinema 1" tvg-logo="" group-title="Belgium",BE: Cinema 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cinema 2" tvg-logo="" group-title="Belgium",BE: Cinema 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9817.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL Luxemburg" tvg-logo="" group-title="Belgium",BE: RTL Luxemburg
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9261.ts
+#EXTINF:-1 tvg-ID="be.RTL-TVI" tvg-name="BE: RTL TVI" tvg-logo="http://kingepg.ddns.net/logos/be.rtl-tvi.png" group-title="Belgium",BE: RTL TVI
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/3928.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Radio Contact Vision" tvg-logo="" group-title="Belgium",BE: Radio Contact Vision
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9816.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: BNR Nieuws Radio" tvg-logo="" group-title="Belgium",BE: BNR Nieuws Radio
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9814.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TVL" tvg-logo="" group-title="Belgium",BE: TVL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TVO" tvg-logo="" group-title="Belgium",BE: TVO
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/9259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TV LUX" tvg-logo="" group-title="Belgium",BE: TV LUX
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/13624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Bruxelles TV" tvg-logo="" group-title="Belgium",BE: Bruxelles TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Serie" tvg-logo="" group-title="Belgium",BE: Serie
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Canal Zoom" tvg-logo="" group-title="Belgium",BE: Canal Zoom
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/20611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Evenaar" tvg-logo="" group-title="Belgium",BE: Evenaar
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/17411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- Adult -----" tvg-logo="" group-title="For Adults",----- Adult -----
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 1" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 1
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 2" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 2
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 3" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 3
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 4" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 4
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8796.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 5" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 5
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8797.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 6" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 6
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 7" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 7
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8799.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Pink Erotic 8" tvg-logo="" group-title="For Adults",XXX: Pink Erotic 8
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/8800.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: DORCEL" tvg-logo="" group-title="For Adults",XXX: DORCEL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: HUSTLER HD" tvg-logo="" group-title="For Adults",XXX: HUSTLER HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Jasmin TV" tvg-logo="" group-title="For Adults",XXX: Jasmin TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX:Penthouse HD" tvg-logo="" group-title="For Adults",XXX:Penthouse HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7457.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: RED LIGHT HD" tvg-logo="" group-title="For Adults",XXX: RED LIGHT HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/7454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: EROX HD" tvg-logo="" group-title="For Adults",XXX: EROX HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/11354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: HOT HD" tvg-logo="" group-title="For Adults",XXX: HOT HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/10044.ts
+#EXTINF:-1 tvg-ID="xx.Brazzers TV Europe" tvg-name="XXX: Brazzers" tvg-logo="" group-title="For Adults",XXX: Brazzers
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Meiden van Holland" tvg-logo="" group-title="For Adults",XXX: Meiden van Holland
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14479.ts
+#EXTINF:-1 tvg-ID="xx.PassieXXX" tvg-name="XXX: Passie XXX" tvg-logo="" group-title="For Adults",XXX: Passie XXX
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: X-MO" tvg-logo="" group-title="For Adults",XXX: X-MO
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14480.ts
+#EXTINF:-1 tvg-ID="xx.Dusk Deluxe" tvg-name="XXX: DUSK" tvg-logo="" group-title="For Adults",XXX: DUSK
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Reality Kings tv NL" tvg-logo="" group-title="For Adults",XXX: Reality Kings tv NL
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Secret Circle" tvg-logo="" group-title="For Adults",XXX: Secret Circle
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/14485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Evil Angel" tvg-logo="" group-title="For Adults",XXX: Evil Angel
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/21504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Hot" tvg-logo="" group-title="For Adults",XXX: Hot
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PassieXXX" tvg-logo="" group-title="For Adults",XXX: PassieXXX
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Penthouse HD" tvg-logo="" group-title="For Adults",XXX: Penthouse HD
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PlayBoy TV" tvg-logo="" group-title="For Adults",XXX: PlayBoy TV
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: SexPrive" tvg-logo="" group-title="For Adults",XXX: SexPrive
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Sextreme" tvg-logo="" group-title="For Adults",XXX: Sextreme
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Sexy Hot" tvg-logo="" group-title="For Adults",XXX: Sexy Hot
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Claro Adult" tvg-logo="" group-title="For Adults",XXX: Claro Adult
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: Venus" tvg-logo="" group-title="For Adults",XXX: Venus
+http://hiptv.ddns.net:8000/live/vanesser/V1zj6KIjiY/29966.ts
